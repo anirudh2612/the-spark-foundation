@@ -1,2 +1,2 @@
-# the-spark-foundation
-data science and business analytics
+# The Spark Foundation (GRIP)
+Data Science & Business Analytics
